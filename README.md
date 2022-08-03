@@ -1,1 +1,1 @@
-# Random collections of Dockerfiles to help development
+Random collections of Dockerfiles to help development
